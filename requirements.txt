@@ -1,0 +1,12 @@
+Django==6.0.1
+gunicorn # Required for running Django on Render
+psutil # Optional but useful for monitoring
+dj-database-url  # For handling database connections
+psycopg2-binary  # PostgreSQL adapter
+whitenoise  # Serves static files in production
+requests  # If your app makes HTTP requests
+pdfplumber  # Required for PDF processing
+pdf2docx  # Required for PDF to Word conversion
+PyMuPDF  # PDF processing library
+pypdfium2  # PDF rendering and manipulation
+python-docx  # Working with .docx files
