@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=0a-yt&-&+fkwso@#ok)_ir-2*!*zx)-ina9+(pozt#aijky0m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pdf-to-word-3-okta.onrender.com']
 
 
 # Application definition
